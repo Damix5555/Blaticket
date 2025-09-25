@@ -15,6 +15,9 @@ namespace Bláticket
         {
             Console.WriteLine("Vevő neve:");
             string buyer = Console.ReadLine();
+
+            Console.WriteLine("Vevő neve:");
+            string teszt = Console.ReadLine();
         }
     }
 }
